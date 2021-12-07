@@ -1,0 +1,380 @@
+{
+  "AC": {
+         "SENAC": [
+                    "13.060 matrículas totais",
+                    "7.375 matrículas gratuitas",
+                    "13.681 participantes em ações extensivas",
+                    "13 municípios atendidos"
+                  ],
+         "SESC": [
+                    "45,3 mil inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "72. mil pessoas alcançadas em ações de Cultura",
+                    "4,6 mil beneficiados (por mês) no Mesa Brasil",
+                    "9 unidades fixas e 2 unidades móveis"
+                 ]
+  },
+  "AL": {
+         "SENAC": [
+                    "12.810 matrículas totais",
+                    "3.278 matrículas gratuitas",
+                    "5.563 participantes em ações extensivas",
+                    "16 municípios atendidos "
+                  ],
+         "SESC": [
+                    "76.903 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "29.949 pessoas alcançadas em ações de Cultura",
+                    "95.132 beneficiados (por mês) no Mesa Brasil",
+                    "12 unidades fixas e 4 unidades móveis"
+                 ]
+  },
+  "AP": {
+         "SENAC": [
+                    "4.429 matrículas totais",
+                    "2.609 matrículas gratuitas",
+                    "3.852 participantes em ações extensivas",
+                    "6 municípios atendidos"
+                  ],
+         "SESC": [
+                    "46.595 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "51 mil pessoas alcançadas em ações de Cultura",
+                    "6,3 mil beneficiados (por mês) no Mesa Brasil",
+                    "8 unidades fixas e 5 unidades móveis"
+                 ]
+  },
+  "AM": {
+         "SENAC": [
+                    "24.462 matrículas totais",
+                    "7.893 matrículas gratuitas",
+                    "32.815 participantes em ações extensivas",
+                    "10 municípios atendidos"
+                  ],
+         "SESC": [
+                    "45.628 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "116.596 pessoas alcançadas em ações de Cultura",
+                    "37.182 beneficiados (por mês) no Mesa Brasil",
+                    "23 unidades fixas e 4 unidades móveis"
+                 ]
+  },
+  "BA": {
+         "SENAC": [
+                    "38.109 matrículas totais",
+                    "8.194 matrículas gratuitas ",
+                    "45.866 participantes em ações extensivas",
+                    "52 municípios atendidos"
+                  ],
+         "SESC": [
+                    "127.383 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "376.298 pessoas alcançadas em ações de Cultura",
+                    "41.020 beneficiados (por mês) no Mesa Brasil",
+                    "21 unidades fixas e 5 unidades móveis"
+                 ]
+  },
+  "CE": {
+         "SENAC": [
+                    "38.135 matrículas totais",
+                    "8.834 matrículas gratuitas",
+                    "91.475 participantes em ações extensivas",
+                    "65 municípios atendidos "
+                  ],
+         "SESC": [
+                    "403.962 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "1.616.522 pessoas alcançadas em ações de Cultura",
+                    "1.655.168 beneficiados (por mês) no Mesa Brasil",
+                    "21 unidades fixas e 6 unidades móveis"
+                 ]
+  },
+  "DF": {
+         "SENAC": [
+                    "21.792 matrículas totais",
+                    "7.688 matrículas gratuitas",
+                    "1.607 participantes em ações extensivas",
+                    "13 municípios atendidos**"
+                  ],
+         "SESC": [
+                    "356.978 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência ",
+                    "554.487 pessoas alcançadas em ações de Cultura",
+                    "446.284 beneficiados (por mês) no Mesa Brasil",
+                    "14 unidades fixas e 6 unidades móveis"
+                 ]
+  },
+  "ES": {
+         "SENAC": [
+                    "19.294 matrículas totais",
+                    "4.932 matrículas gratuitas ",
+                    "10.431 participantes em ações extensivas ",
+                    "20 municípios atendidos "
+                  ],
+         "SESC": [
+                    "35.754 inscrições nos programadas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "112.634 pessoas alcançadas em ações de Cultura",
+                    "23.525 beneficiados (por mês) no Mesa Brasil",
+                    "16 unidades fixas"
+                 ]
+  },
+  "GO": {
+         "SENAC": [
+                    "24.107 matrículas totais",
+                    "5.221 matrículas gratuitas",
+                    "118.533 participantes em ações extensivas",
+                    "24 municípios atendidos"
+                  ],
+         "SESC": [
+                    "202.102 inscrições nos programadas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "135.041 pessoas alcançadas em ações de Cultura",
+                    "28.983 beneficiados (por mês) no Mesa Brasil",
+                    "16 unidades fixas e 8 unidades móveis"
+                 ]
+  },
+  "MA": {
+         "SENAC": [
+                    "24.260 matrículas totais",
+                    "4.640 matrículas gratuitas",
+                    "4.273 participantes em ações extensivas",
+                    "24 municípios atendidos"
+                  ],
+         "SESC": [
+                    "100.947 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "241.223 pessoas alcançadas em ações de Cultura ",
+                    "13.797 beneficiados (por mês) no Mesa Brasil",
+                    "7 unidades fixas e 4 unidades móveis"
+                 ]
+  },
+  "MT": {
+         "SENAC": [
+                    "14.242 matrículas totais",
+                    "6.809 matrículas gratuitas",
+                    "729 participantes em ações extensivas",
+                    "46 municípios atendidos"
+                  ],
+         "SESC": [
+                    "52.298 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "208.901 pessoas alcançadas em ações de Cultura",
+                    "25.179 beneficiados (por mês) no Mesa Brasil",
+                    "17 unidades fixas e 4 unidades móveis"
+                 ]
+  },
+  "MS": {
+         "SENAC": [
+                    "10.993 matrículas totais",
+                    "3.922 matrículas gratuitas",
+                    "7.322 participantes em ações extensivas",
+                    "13 municípios atendidos"
+                  ],
+         "SESC": [
+                    "40.198 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "164.869 pessoas alcançadas em ações de Cultura",
+                    "27.131 beneficiados (por mês) no Mesa Brasil",
+                    "15 unidades fixas e 5 unidades móveis"
+                 ]
+  },
+  "MG": {
+         "SENAC": [
+                    "60.378 matrículas totais",
+                    "31.610 matrículas gratuitas",
+                    "53.335 participantes em ações extensivas",
+                    "169 municípios atendidos"
+                  ],
+         "SESC": [
+                    "123.622 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "719.179 pessoas alcançadas em ações de Cultura ",
+                    "124.246 beneficiados (por mês) no Mesa Brasil",
+                    "34 unidades fixas e 10 unidades móveis"
+                 ]
+  },
+  "PA": {
+         "SENAC": [
+                    "19.586  matrículas totais",
+                    "5.657 matrículas gratuitas",
+                    "15.112 participantes em ações extensivas",
+                    "29 municípios atendidos"
+                  ],
+         "SESC": [
+                    "117.896 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "66.326 pessoas alcançadas em ações de Cultura",
+                    "853.623 beneficiados (por mês) no Mesa Brasil",
+                    "23 unidades fixas e 5 unidades móveis"
+                 ]
+  },
+  "PB": {
+         "SENAC": [
+                    "10.768  matrículas totais",
+                    "3.441 matrículas gratuitas",
+                    "3.746 participantes em ações extensivas",
+                    "31 municípios atendidos"
+                  ],
+         "SESC": [
+                    "59.693 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "113.060 pessoas alcançadas em ações de Cultura ",
+                    "87.104 beneficiados (por mês) no Mesa Brasil",
+                    "18 unidades fixas e 5 unidades móveis"
+                 ]
+  },
+  "PR": {
+         "SENAC": [
+                    "83.212 matrículas totais",
+                    "16.173 matrículas gratuitas",
+                    "35.754 participantes em ações extensivas",
+                    "399 municípios atendidos"
+                  ],
+         "SESC": [
+                    "369.052 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "430.149 pessoas alcançadas em ações de Cultura ",
+                    "93.438 beneficiados (por mês) no Mesa Brasil",
+                    "38 unidades fixas e 6 unidades móveis"
+                 ]
+  },
+  "PE": {
+         "SENAC": [
+                    "40.850 matrículas totais",
+                    "5.614 matrículas gratuitas",
+                    "67.042 participantes em ações extensivas",
+                    "94 municípios atendidos"
+                  ],
+         "SESC": [
+                    "152.278 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "447.377 pessoas alcançadas em ações de Cultura ",
+                    "70.379 beneficiados (por mês) no Mesa Brasil",
+                    "22 unidades fixas e 6 unidades móveis"
+                 ]
+  },
+  "PI": {
+         "SENAC": [
+                    "20.538 matrículas totais",
+                    "1.345 matrículas gratuitas",
+                    "9.187 participantes em ações extensivas",
+                    "11 municípios atendidos"
+                  ],
+         "SESC": [
+                    "57.447inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "98.442 pessoas alcançadas em ações de Cultura",
+                    "11.160 beneficiados (por mês) no Mesa Brasil",
+                    "24 unidades fixas e 5 unidades móveis"
+                 ]
+  },
+  "RJ": {
+         "SENAC": [
+                    "96.344 matrículas totais",
+                    "28.539 matrículas gratuitas",
+                    "27.735 participantes em ações extensivas",
+                    "29 municípios atendidos"
+                  ],
+         "SESC": [
+                    "1.904.070 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "4.554.751 pessoas alcançadas em ações de Cultura",
+                    "40.513 beneficiados (por mês) no Mesa Brasil",
+                    "22 unidades fixas e 11 unidades móveis"
+                 ]
+  },
+  "RN": {
+         "SENAC": [
+                    "19.336 matrículas totais",
+                    "2.279 matrículas gratuitas",
+                    "4.169 participantes em ações extensivas",
+                    "40 municípios atendidos"
+                  ],
+         "SESC": [
+                    "66.665 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "187.204 pessoas alcançadas em ações de Cultura ",
+                    "45.668 beneficiados (por mês) no Mesa Brasil",
+                    "11 unidades fixas e 3 unidades móveis"
+                 ]
+  },
+  "RS": {
+         "SENAC": [
+                    "88.842 matrículas totais",
+                    "21.179 matrículas gratuitas",
+                    "127.736 participantes em ações extensivas",
+                    "497 municípios atendidos"
+                  ],
+         "SESC": [
+                    "1.128.964 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "3.274.510 pessoas alcançadas em ações de Cultura",
+                    "827.899 beneficiados (por mês) no Mesa Brasil",
+                    "68 unidades fixas e 13 unidades móveis"
+                 ]
+  },
+  "RO": {
+         "SENAC": [
+                    "15.742 matrículas totais",
+                    "4.073 matrículas gratuitas",
+                    "8.561 participantes em ações extensivas",
+                    "33 municípios atendidos"
+                  ],
+         "SESC": [
+                    "38.495 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "46.058 pessoas alcançadas em ações de Cultura ",
+                    "11.926 beneficiados (por mês) no Mesa Brasil",
+                    "9 unidades fixas e 3 unidades móveis"
+                 ]
+  },
+  "RR": {
+         "SENAC": [
+                    "13.656 matrículas totais",
+                    "9.066 matrículas gratuitas",
+                    "3.340 participantes em ações extensivas",
+                    "15 municípios atendidos"
+                  ],
+         "SESC": [
+                    "28.235 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "10.876 pessoas alcançadas em ações de Cultura",
+                    "25.055 beneficiados (por mês) no Mesa Brasil",
+                    "4 unidades fixas e 3 unidades móveis"
+                 ]
+  },
+  "SC": {
+         "SENAC": [
+                    "49.959 matrículas totais",
+                    "16.629 matrículas gratuitas",
+                    "10.671 participantes em ações extensivas",
+                    "26 municípios atendidos"
+                  ],
+         "SESC": [
+                    "449.203 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "539.729 pessoas alcançadas em ações de Cultura ",
+                    "63.459 beneficiados (por mês) no Mesa Brasil",
+                    "55 unidades fixas e 9 unidades móveis"
+                 ]
+  },
+  "SP": {
+         "SENAC": [
+                    "505.377 matrículas totais",
+                    "128.023 matrículas gratuitas",
+                    "166.184 participantes em ações extensivas",
+                    "102 municípios atendidos"
+                  ],
+         "SESC": [
+                    "1.018.550 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "4.658.105 pessoas alcançadas em ações de Cultura ",
+                    "167.666 beneficiados (por mês) no Mesa Brasil",
+                    "38 unidades fixas e 11 unidades móveis"
+                 ]
+  },
+  "SE": {
+         "SENAC": [
+                    "12.563 matrículas totais",
+                    "3.596 matrículas gratuitas",
+                    "3.072 participantes em ações extensivas",
+                    "19 municípios atendidos"
+                  ],
+         "SESC": [
+                    "33.390 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "55.732 pessoas alcançadas em ações de Cultura",
+                    "73.686 beneficiados (por mês) no Mesa Brasil",
+                    "27 unidades fixas e 4 unidades móveis"
+                 ]
+  },
+  "TO": {
+         "SENAC": [
+                    "14.452 matrículas totais",
+                    "9.952 matrículas gratuitas",
+                    "6.727 participantes em ações extensivas",
+                    "12 municípios atendidos"
+                  ],
+         "SESC": [
+                    "29.255 inscrições nos programas de Educação, Saúde, Cultura, Lazer e Assistência",
+                    "60.700 pessoas alcançadas em ações de Cultura",
+                    "251.185 beneficiados (por mês) no Mesa Brasil",
+                    "12 unidades fixas e 4 unidades móveis"
+                 ]
+  }
+}
